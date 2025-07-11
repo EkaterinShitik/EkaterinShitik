@@ -17,7 +17,7 @@
   ## About me 👋:
 
 
-- 👩‍💻 Software engineer at EPAM Systems in the Life Science domain
+- 👩‍💻 Senior software engineer at EPAM Systems in the Life Science domain
 - 🔬 Explored adeno-associated viruses and CRISPR/Cas systems 
 - 📚 Graduated from [Novosibirsk State University](https://english.nsu.ru/) and [Bioinformatics Institute](https://bioinf.me/en)
 - 🐶 Looking for pet projects
